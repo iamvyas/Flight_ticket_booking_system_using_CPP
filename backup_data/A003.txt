@@ -1,0 +1,17 @@
+<meta>
+A003
+<economy>
+344
+1000
+20
+20
+</economy>
+<business>
+232
+2000
+12
+12
+</business>
+</meta>
+<data>
+</data>
